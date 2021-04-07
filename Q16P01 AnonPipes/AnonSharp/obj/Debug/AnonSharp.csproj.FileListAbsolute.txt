@@ -1,0 +1,10 @@
+C:\Users\фдуч\Documents\GitHub\SysProg\Q16P01 AnonPipes\Debug\AnonSharp.exe.config
+C:\Users\фдуч\Documents\GitHub\SysProg\Q16P01 AnonPipes\Debug\AnonSharp.exe
+C:\Users\фдуч\Documents\GitHub\SysProg\Q16P01 AnonPipes\Debug\AnonSharp.pdb
+C:\Users\фдуч\Documents\GitHub\SysProg\Q16P01 AnonPipes\AnonSharp\obj\Debug\AnonSharp.csprojAssemblyReference.cache
+C:\Users\фдуч\Documents\GitHub\SysProg\Q16P01 AnonPipes\AnonSharp\obj\Debug\AnonSharp.AnonForm.resources
+C:\Users\фдуч\Documents\GitHub\SysProg\Q16P01 AnonPipes\AnonSharp\obj\Debug\AnonSharp.Properties.Resources.resources
+C:\Users\фдуч\Documents\GitHub\SysProg\Q16P01 AnonPipes\AnonSharp\obj\Debug\AnonSharp.csproj.GenerateResource.cache
+C:\Users\фдуч\Documents\GitHub\SysProg\Q16P01 AnonPipes\AnonSharp\obj\Debug\AnonSharp.csproj.CoreCompileInputs.cache
+C:\Users\фдуч\Documents\GitHub\SysProg\Q16P01 AnonPipes\AnonSharp\obj\Debug\AnonSharp.exe
+C:\Users\фдуч\Documents\GitHub\SysProg\Q16P01 AnonPipes\AnonSharp\obj\Debug\AnonSharp.pdb
